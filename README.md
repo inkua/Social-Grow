@@ -5,8 +5,8 @@ El objetivo de este repositorio es compartir todo el material implicado en el de
 > Completar
 
 ## Links
-- [Manual de marca] (
-- [Logos]
+- [Manual de marca](https://github.com/inkua/Social-Grow/tree/main/manual-marca)
+- [Logos](https://github.com/inkua/Social-Grow/tree/main/logos)
 - [Procesos]
 - [Artículos del blog]
 - [Sitio web]
