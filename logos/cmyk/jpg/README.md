@@ -1,0 +1,1 @@
+# Logos CMYK formato .JPG
