@@ -11,3 +11,4 @@ El objetivo de este repositorio es compartir todo el material implicado en el de
 - [Artículos del blog]
 - [Sitio web]
 > ¿Sitio web lo hacemos como carpeta acá adentro o hacemos un nuevo repositorio?
+> > Depende un poco del espacio y el contenido en general del repositorio. Creo que este podría tener todo en uno. 
