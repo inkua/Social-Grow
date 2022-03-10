@@ -7,7 +7,7 @@ El objetivo de este repositorio es compartir todo el material implicado en el de
 ## Links
 - [Manual de marca](https://github.com/inkua/Social-Grow/tree/main/manual-marca)
 - [Logos](https://github.com/inkua/Social-Grow/tree/main/logos)
-- [Procesos]
+- [Procesos](https://github.com/inkua/Social-Grow/tree/main/procesos)
 - [Artículos del blog]
 - [Sitio web]
 > ¿Sitio web lo hacemos como carpeta acá adentro o hacemos un nuevo repositorio?
