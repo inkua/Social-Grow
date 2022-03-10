@@ -1,3 +1,5 @@
+# Cómo comprobar lo que Google sabe sobre vos
+
 Para realizar aquello que se denomina egosurfing debes:
 1. Escribir tu nombre de marca, entre cursiva “Mario Rojo” o “Mario Rojo SA”, sobre:
     - Motores de búsqueda: Google, Yahoo, Bing, Baidu, Qwant, DuckDuckGo, Ask, Ecosia, Searchencrypt, Yandex y otros;
